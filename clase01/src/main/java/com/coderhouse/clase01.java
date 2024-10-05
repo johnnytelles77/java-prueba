@@ -32,6 +32,8 @@ public class clase01 {
 		System.out.println(contador);
 		contador++;
 		System.out.println(contador);
+		contador++;
+		System.out.println(contador);
 		
 
 	}
